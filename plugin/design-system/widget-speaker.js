@@ -28,11 +28,11 @@ export default class WidgetSpeaker extends HTMLElement {
   socialLinks = [
     {
       name: 'github',
-      url: 'https://github.com',
+      url: 'https://github.com/',
     },
     {
       name: 'twitter',
-      url: 'https://twitter.com',
+      url: 'https://twitter.com/',
     },
     {
       name: 'matrix',
@@ -40,7 +40,7 @@ export default class WidgetSpeaker extends HTMLElement {
     },
     {
       name: 'linkedin',
-      url: 'https://linkedin.com/in',
+      url: 'https://linkedin.com/in/',
     },
   ];
 
@@ -71,18 +71,17 @@ export default class WidgetSpeaker extends HTMLElement {
         return;
       }
 
-      if (socialLink.name == 'twitter' || socialLink.name == 'github' || socialLink.name == 'matrix') {
-        socialHandle = '@' + socialHandle;
-      }
-
       const $socialLink = document.createElement('widget-speaker-social-link');
 
       const $title = document.createElement('widget-speaker-social-link-title');
       $title.innerText = `${socialLink.name}:`;
 
       const $link = document.createElement('a');
-      $link.href = `${socialLink.url}/${socialHandle}`;
+      $link.href = `${socialLink.url}${socialHandle}`;
       $link.target = '_blank';
+      if (socialLink.name == 'twitter' || socialLink.name == 'github' || socialLink.name == 'matrix') {
+        socialHandle = '@' + socialHandle;
+      }
       $link.innerText = socialHandle;
 
       $socialLink.append($title);

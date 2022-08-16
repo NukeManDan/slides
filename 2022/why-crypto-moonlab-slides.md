@@ -1,7 +1,7 @@
 ---
 title: Why Crypto?
+description: Dan's perspective. For https://www.moonlab.space/ event.
 date: 2022-08-17
-description: Why Crypto? Dan's perspective.
 duration: 15 minuets
 author: Dan Shields <nukemandan@protonmail.com>
 event-url: https://www.meetup.com/cryptorado-community/events/287788617/
