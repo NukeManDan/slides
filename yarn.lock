@@ -2098,7 +2098,7 @@ __metadata:
 
 "reveal-md@git+https://github.com/NukeManDan/reveal-md.git#patch-1":
   version: 5.3.4
-  resolution: "reveal-md@https://github.com/NukeManDan/reveal-md.git#commit=89e177024fb2d75e87f077cfc224c033ee85a158"
+  resolution: "reveal-md@https://github.com/NukeManDan/reveal-md.git#commit=54c9757ad9c76c4ac6069410f4fad61e788d0aae"
   dependencies:
     debug: 4.3.4
     express: 4.18.1
@@ -2121,7 +2121,7 @@ __metadata:
       optional: true
   bin:
     reveal-md: bin/reveal-md.js
-  checksum: 0143375b45338794f0fa648f4b32c7165e4255e3c7f435b72815268b642554e3655824abbf6625daa592594bfa7412a74f9db2e3cc18bb6c9d419d68166477a6
+  checksum: 8a528402f4b051cf668523487ecd3b7e02624effed54a17f617d4b8ffdf5d56cf98725a0e46ef7e6ab7341175b2c9192e618c0e9e6a5b49c4a5e62a524d70c5a
   languageName: node
   linkType: hard
 
