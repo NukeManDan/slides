@@ -1,0 +1,23 @@
+{
+  "title": "NukeManDan Slides",
+  "theme": "assets/styles/nuke-theme.css",
+  "assetsDir": ".",
+  "css": [
+    "assets/styles/nuke-theme.css",
+    "plugin/design-system/index.css"
+  ],
+  "scripts": [
+    "plugin/design-system/design-system.js",
+    "plugin/design-system/widget-speaker.js"
+  ],
+  "separator": "\r?\n---\r?\n",
+  "verticalSeparator": "\r?\n---v\r?\n",
+  "highlightTheme": "shades-of-purple",
+  "template": "./assets/templates/slide-template.html",
+  "listingTemplate": "./assets/templates/listing-template.html",
+  "host": "0.0.0.0",
+  "staticDir": "build",
+  "staticDirs": ["assets", "plugin"],
+  "preprocessor": null,
+  "glob": "**/*[Ss]lides.md"
+}

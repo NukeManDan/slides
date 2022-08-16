@@ -1771,11 +1771,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nukemandan_reveal_slides@workspace:.":
+"nukemandan-slides@workspace:.":
   version: 0.0.0-use.local
-  resolution: "nukemandan_reveal_slides@workspace:."
+  resolution: "nukemandan-slides@workspace:."
   dependencies:
-    reveal-md: ^5.3.4
+    prettier: ^2.6.2
+    reveal-md: "git+https://github.com/NukeManDan/reveal-md.git#patch-1"
   languageName: unknown
   linkType: soft
 
@@ -1889,6 +1890,15 @@ __metadata:
   version: 2.0.0
   resolution: "prepend-http@npm:2.0.0"
   checksum: 7694a9525405447662c1ffd352fcb41b6410c705b739b6f4e3a3e21cf5fdede8377890088e8934436b8b17ba55365a615f153960f30877bf0d0392f9e93503ea
+  languageName: node
+  linkType: hard
+
+"prettier@npm:^2.6.2":
+  version: 2.7.1
+  resolution: "prettier@npm:2.7.1"
+  bin:
+    prettier: bin-prettier.js
+  checksum: 55a4409182260866ab31284d929b3cb961e5fdb91fe0d2e099dac92eaecec890f36e524b4c19e6ceae839c99c6d7195817579cdffc8e2c80da0cb794463a748b
   languageName: node
   linkType: hard
 
@@ -2086,9 +2096,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"reveal-md@npm:^5.3.4":
+"reveal-md@git+https://github.com/NukeManDan/reveal-md.git#patch-1":
   version: 5.3.4
-  resolution: "reveal-md@npm:5.3.4"
+  resolution: "reveal-md@https://github.com/NukeManDan/reveal-md.git#commit=89e177024fb2d75e87f077cfc224c033ee85a158"
   dependencies:
     debug: 4.3.4
     express: 4.18.1
@@ -2111,7 +2121,7 @@ __metadata:
       optional: true
   bin:
     reveal-md: bin/reveal-md.js
-  checksum: 197ef1694975eb70ed6a3b08f2fb2e39bfda08a32054403c8e480c6896f2a4167e079a5104ca822dc856d979419689222c57956e95a21e28e8d1ffdf44fca75a
+  checksum: 0143375b45338794f0fa648f4b32c7165e4255e3c7f435b72815268b642554e3655824abbf6625daa592594bfa7412a74f9db2e3cc18bb6c9d419d68166477a6
   languageName: node
   linkType: hard
 

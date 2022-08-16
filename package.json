@@ -1,12 +1,21 @@
 {
-  "name": "nukemandan_slides",
+  "name": "nukemandan-slides",
   "version": "1.0.0",
   "description": "Nuke's slides used at various events",
   "author": "Dan Shields <nukemandan@protonmail.com>",
   "license": "CC BY-NC-SA 4.0",
   "private": true,
+  "scripts": {
+    "start": "reveal-md ./ --watch --absolute-url http://localhost:1948",
+    "help": "reveal-md --help",
+    "build": "rm -rf build && reveal-md ./ --static build",
+    "build-github-pages": "rm -rf build && reveal-md ./ --static build --absolute-url https://nukemandan.github.io/slides/ ",
+    "format": "prettier --config .prettierrc.js --write '**/*.md'",
+    "format:code": "prettier --config .prettierrc.js --write '{**/*.{rs,js,ts,json},!**/*.md}'"
+  },
   "packageManager": "yarn@3.2.2",
   "devDependencies": {
-    "reveal-md": "^5.3.4"
+    "prettier": "^2.6.2",
+    "reveal-md": "git+https://github.com/NukeManDan/reveal-md.git#patch-1"
   }
 }
