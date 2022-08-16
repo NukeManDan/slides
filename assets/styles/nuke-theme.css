@@ -253,8 +253,6 @@ section.has-light-background h6 {
 .reveal dl,
 .reveal ul {
 	text-align: left;
-	line-height: 1.1;
-	margin-top: 1em;
 }
 
 .reveal ul {
@@ -264,6 +262,7 @@ section.has-light-background h6 {
 
 .reveal ul li {
 	position: relative;
+	margin-top: 0.4em;
 }
 
 .reveal ul li::before {

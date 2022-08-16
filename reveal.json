@@ -9,5 +9,5 @@
 	"progress": true,
 	"center": true,
 	"slideNumber": true,
-	"backgroundTransition": "slide"
+	"backgroundTransition": "fade"
 }
