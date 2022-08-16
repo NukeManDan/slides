@@ -1,0 +1,12 @@
+{
+  "name": "nukemandan_slides",
+  "version": "1.0.0",
+  "description": "Nuke's slides used at various events",
+  "author": "Dan Shields <nukemandan@protonmail.com>",
+  "license": "CC BY-NC-SA 4.0",
+  "private": true,
+  "packageManager": "yarn@3.2.2",
+  "devDependencies": {
+    "reveal-md": "^5.3.4"
+  }
+}
