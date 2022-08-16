@@ -273,7 +273,7 @@ section.has-light-background h6 {
 	/* Add content: \2022 is the CSS Code/unicode for a bullet */
 	content: "\2022";
 	/* Change the color */
-	color: var(--r-link-color-hover);
+	color: var(--r-link-color);
 	/* If you want it to be bold */
 	font-weight: bold;
 	/* Needed to add space between the bullet and the text */

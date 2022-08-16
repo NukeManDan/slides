@@ -22,6 +22,7 @@ revealOptions:
 ---
 
 <widget-speaker name="Dan Shields" position="Engineer @ Parity & Steward @ Cryptorado" image="assets/img/shared/ice-falls-small-circle.png" github="nukemandan" twitter="nukemandan" linkedin="danwshields" matrix="dan.shields:matrix.parity.io"></widget-speaker>
+
 ---
 
 ## Some Slide Title
@@ -37,3 +38,30 @@ revealOptions:
 <!-- .slide: data-background-color="#4d5060" -->
 
 # Questions?
+
+---
+
+## Join the Community!
+
+<widget-columns>
+<widget-column>
+
+<widget-text center>
+
+### https://cryptorado.org
+
+- Events Calendar
+- Discord community
+- ... and more!
+
+</widget-column>
+<widget-column>
+
+<a href="https://cryptorado.org" target="_blank"><img style="height: 450px" src="/assets/img/shared/QR/cryptorado-org-website.png"/></a>
+
+</widget-column>
+</widget-columns>
+
+Notes:
+
+QR -> https://cryptorado.org
