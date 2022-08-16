@@ -23,7 +23,7 @@ revealOptions:
 
 ---
 
-<widget-speaker name="Dan Shields" position="Engineer @ Parity & Steward @ Cryptorado" image="../assets/img/shared/ice-falls-small-circle.png" github="nukemandan" twitter="nukemandan" linkedin="danwshields" matrix="dan.shields:matrix.parity.io"></widget-speaker>
+<widget-speaker name="Dan Shields" position="Engineer @ Parity & Steward @ Cryptorado" image="/assets/img/shared/ice-falls-small-circle.png" github="nukemandan" twitter="nukemandan" linkedin="danwshields" matrix="dan.shields:matrix.parity.io"></widget-speaker>
 ---
 
 TODO content 😅
