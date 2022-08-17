@@ -15,13 +15,6 @@ event-url: https://www.meetup.com/cryptorado-community/events/287788617/
 
 ---
 
-## Crypto...
-
-<widget-img style="object-fit: cover; border-radius: 6%; width:950px; height: 450px" src="/assets/img/shared/want-to-know-why-thor.gif"/>
-<!-- .element: class="fragment" -->
-
----
-
 ## What _is_ "Crypto"?
 
 <widget-text center>
@@ -220,30 +213,176 @@ Notes:
 
 ---
 
-## Why Should I Care about "Web3"?
+## Ok cool... but...
 
-<br>
+<widget-img style="object-fit: cover; border-radius: 6%; width:950px; height: 450px" src="/assets/img/shared/want-to-know-why-thor.gif"/>
+<!-- .element: class="fragment" -->
+
+Notes:
+
+Why does Web3 matter?
+
+---
+
+<!-- .slide: data-background-color="#000000" data-transition="fade" -->
+
+# _Less Trust._<br> _More Truth._
+
+---
+## _Impact_ on tech and security
 
 <widget-columns>
 <widget-column>
 
-<widget-text center style="margin: 0px 20px;">
+<widget-text center>
 
-**The _time_ is right**
+**Distributed systems**
 
-- Society demanding<br>financial empowerment
-- Individual privacy and choice
-- Technology is ready for mainstream
-- Talent is cross discipline, creed, and more
+<br>
+
+- Motivates interoperable standards
+- Diffuse/dilute risk + attack vectors 
+- Immutable commit & reveal methods
+
 
 </widget-text>
 
 </widget-column>
 <widget-column>
 
+<widget-text center>
+
+**New paradigm: “trust machine”**
+
+<br>
+
+- New security methods w/ incentives
+- “Software eats the world” of 3rd parties
+
+</widget-text>
+
+</widget-column>
+</widget-columns>
+
+---
+
+## _Impact_ on tech and security
+
+<widget-columns>
+<widget-column>
+
+<widget-text center>
+
+**Explosion in cryptography research**
+
+- Large increase in papers on crypto
+- Applied crypto driven by massive hype cycles (Money is a big factor!)
+
+</widget-text>
+
+</widget-column>
+<widget-column>
+
+<widget-text center>
+
+**Simple & robust user key management**
+
+<br>
+
+- Wallet -> Key manager
+- Self-sovereign User ID & verification
+
+</widget-text>
+
+</widget-column>
+</widget-columns>
+
+---
+
+## _Impact_ on policy and society
+
+<widget-columns>
+<widget-column>
+
+<widget-text center>
+
+**Transparency**
+
+<br>
+
+- All transactional info (optionally) open
+- Oracles to lock in physical -> digital data
+- These are not robust yet!
+- Governmental data publicly verifiable
+
+</widget-text>
+
+</widget-column>
+<widget-column>
+
+<widget-text center>
+
+**Censorship Resistance**
+
+<br>
+
+- Pay-to-play public data that is immutable
+- Distribute quickly and bypass blockers
+
+</widget-text>
+
+</widget-column>
+</widget-columns>
+
+---
+
+## _Impact_ on policy and society
+
+<widget-text center>
+
+**Blockchain as a Call-to-Action**
+
+- Cross discipline, creed, and more - people are drawn to this
+- Opens conversations that otherwise would never take place
+
+</widget-text>
+
+Notes:
+
+- Blockchain & Crypto as a Call-to-Action: Society Demands
+- Empowerment & More Individual privacy and choice
+- Cross discipline, creed, and more - people are drawn to this
+- Technology is becoming ready for mainstream
+
+---
+
+## Why Web3?
+
+<widget-text center>
+
+**With respect to policy and society:**
+
+- Blockchain as a Call-to-Action
+- Cross discipline, creed, and more - people are drawn to this
+- Opens conversations that otherwise would never take place
+
+</widget-text>
+
+Notes:
+
+- Blockchain & Crypto as a Call-to-Action: Society Demands
+- Empowerment & More Individual privacy and choice
+- Cross discipline, creed, and more - people are drawn to this
+- Technology is becoming ready for mainstream
+
+---
+
+<widget-columns>
+<widget-column>
+
 <widget-text center style="margin: 0px 20px;">
 
-**The _place_ is right**
+### Why here?
 
 - [Cryptocurrency Exemption Colorado Digital Token Act](https://leg.colorado.gov/bills/sb19-023)
 - [Colorado Council for the Advancement of Blockchain Technology](https://choosecolorado.com/blockchain/)
@@ -252,14 +391,22 @@ Notes:
 </widget-text>
 
 </widget-column>
+<widget-column>
+
+<widget-text center style="margin: 0px 20px;">
+
+### Why now?
+
+- Great opportunities for novel ideas
+- Technology is ready for mainstream
+- Talent pool is small, easy to start
+
+</widget-text>
+
+</widget-column>
 </widget-columns>
 
 Notes:
-
-- Blockchain & Crypto as a Call-to-Action: Society Demands
-- Empowerment & More Individual privacy and choice
-- Cross discipline, creed, and more - people are drawn to this
-- Technology is becoming ready for mainstream
 
 1. [Cryptocurrency Exemption Colorado Digital Token Act](https://leg.colorado.gov/bills/sb19-023) - Concerning exemptions from the securities laws for cryptocurrencies, and, in connection therewith, enacting the "Colorado Digital Token Act".
 1. [Colorado Council for the Advancement of Blockchain Technology](https://choosecolorado.com/blockchain/) - The Council recommends guidelines for relevant agencies, while simultaneously ensuring protection for data and consumers.
@@ -274,7 +421,23 @@ Notes:
 
 ---
 
-## Cryptorado
+<a href="https://cryptorado.org" target="_blank"><widget-img style="object-fit: cover; border-radius: 2%; height: 250px; width: 1000px" src="/assets/img/shared/logo/cryptoradoBanner_1080.png"/></a>
+
+## Non-profit Cooperative<br>Trade Association
+
+_A Magnet for talent, helping fuel innovation for Web3 in Colorado_
+
+Notes:
+
+We do: advertising, education, publishing, lobbying, and political donations, but its focus is collaboration between companies.
+Associations may offer other services, such as producing conferences, holding networking or charitable events, or offering classes or educational materials.
+Many associations are non-profit organizations governed by bylaws and directed by officers who are also members.
+
+---
+
+<a href="https://cryptorado.org" target="_blank"><widget-img style="object-fit: cover; border-radius: 2%; height: 190px; width: 750px" src="/assets/img/shared/logo/cryptoradoBanner_1080.png"/></a>
+
+<br>
 
 <widget-columns>
 <widget-column>
@@ -307,20 +470,6 @@ Notes:
 
 </widget-column>
 </widget-columns>
-
----
-
-# Cryptorado
-
-## Non-profit Cooperative<br>Trade Association
-
-_A Magnet for talent, helping fuel innovation for Web3 in Colorado_
-
-Notes:
-
-advertising, education, publishing, lobbying, and political donations, but its focus is collaboration between companies.
-Associations may offer other services, such as producing conferences, holding networking or charitable events, or offering classes or educational materials.
-Many associations are non-profit organizations governed by bylaws and directed by officers who are also members.
 
 ---
 
