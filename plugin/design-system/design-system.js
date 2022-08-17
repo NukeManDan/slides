@@ -1,6 +1,7 @@
 import WidgetSpeaker from './widget-speaker.js';
+import WidgetImg from './widget-img.js';
 
-export { WidgetSpeaker };
+export { WidgetSpeaker, WidgetImg };
 
 export default {
   id: 'designSystem',
@@ -21,6 +22,7 @@ export default {
     }
 
     customElements.define('widget-speaker', WidgetSpeaker);
+    customElements.define('widget-img', WidgetImg);
 
     const $reveal =  getRevealElement()
     $reveal.setAttribute('is-loaded', true)

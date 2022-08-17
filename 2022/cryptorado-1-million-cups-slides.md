@@ -62,7 +62,7 @@ This is a more controversial topic!
 
 <widget-text center>
 
-<img style="object-fit: cover; border-radius: 90%; height: 350px; width: 350px;" src="/assets/img/shared/blue-bitcoin.png"/>
+<widget-img style="object-fit: cover; border-radius: 90%; height: 350px; width: 350px;" src="/assets/img/shared/blue-bitcoin.png"/>
 
 </widget-text>
 
@@ -96,7 +96,7 @@ So... It’s just a simple database...?<!-- .element: class="fragment" -->
 
 <widget-text center>
 
-<img style="object-fit: cover; border-radius: 90%; height: 350px; width: 350px;" src="/assets/img/shared/blue-bitcoin.png"/>
+<widget-img style="object-fit: cover; border-radius: 90%; height: 350px; width: 350px;" src="/assets/img/shared/blue-bitcoin.png"/>
 
 </widget-text>
 
@@ -133,7 +133,7 @@ Notes:
 
 <widget-text center>
 
-<img style="object-fit: cover; border-radius: 90%; height: 350px; width: 350px;" src="/assets/img/shared/blue-bitcoin.png"/>
+<widget-img style="object-fit: cover; border-radius: 90%; height: 350px; width: 350px;" src="/assets/img/shared/blue-bitcoin.png"/>
 
 </widget-text>
 
@@ -184,7 +184,7 @@ Notes:
 
 <widget-text center>
 
-<img style="object-fit: cover; border-radius: 90%; height: 350px; width: 350px;" src="/assets/img/shared/crypto-tokens.png"/>
+<widget-img style="object-fit: cover; border-radius: 90%; height: 350px; width: 350px;" src="/assets/img/shared/crypto-tokens.png"/>
 
 </widget-text>
 
@@ -323,7 +323,7 @@ Incentivize = Attract, retain, and empower members.
 
 ## Our Solution:
 
-<a href="https://cryptorado.org" target="_blank"><img style="object-fit: cover; border-radius: 4%; height: 650px; width: 850px" src="/assets/img/shared/logo/cryptoradoBanner_1080.png"/></a>
+<a href="https://cryptorado.org" target="_blank"><widget-img style="object-fit: cover; border-radius: 4%; height: 650px; width: 850px" src="/assets/img/shared/logo/cryptoradoBanner_1080.png"/></a>
 
 <!-- .element: class="fragment" -->
 
@@ -386,7 +386,7 @@ Many associations are non-profit organizations governed by bylaws and directed b
 
 <widget-text center>
 
-<a href="https://cryptorado.org" target="_blank"><img style="height: 350px" src="/assets/img/shared/logo/cryptorado_colored.png"/></a>
+<a href="https://cryptorado.org" target="_blank"><widget-img style="height: 350px" src="/assets/img/shared/logo/cryptorado_colored.png"/></a>
 
 </widget-text>
 
@@ -437,7 +437,7 @@ Notes:
 
 <widget-text center>
 
-<a href="https://cryptorado.org" target="_blank"><img style="height: 350px" src="/assets/img/shared/logo/cryptorado_colored.png"/></a>
+<a href="https://cryptorado.org" target="_blank"><widget-img style="height: 350px" src="/assets/img/shared/logo/cryptorado_colored.png"/></a>
 
 </widget-text>
 
@@ -484,7 +484,7 @@ Notes:
 
 <widget-text center>
 
-<a href="https://cryptorado.org" target="_blank"><img style="height: 350px" src="/assets/img/shared/logo/cryptorado_colored.png"/></a>
+<a href="https://cryptorado.org" target="_blank"><widget-img style="height: 350px" src="/assets/img/shared/logo/cryptorado_colored.png"/></a>
 
 </widget-text>
 
@@ -523,7 +523,7 @@ _Test MVP of shared office - is an embassy needed?_
 
 ## How do we get there?
 
-<a href="https://cryptorado.org" target="_blank"><img style="object-fit: cover; border-radius: 4%; height: 650px; width: 600px" src="/assets/img/shared/want-you.png"/></a>
+<widget-img style="object-fit: cover; border-radius: 4%; height: 650px; width: 600px" src="/assets/img/shared/want-you.png"/>
 
 <!-- .element: class="fragment" -->
 
@@ -536,7 +536,7 @@ _Test MVP of shared office - is an embassy needed?_
 
 <widget-text center>
 
-<img style="height: 250px" src="/assets/img/shared/blue-moon.png"/>
+<widget-img style="height: 250px" src="/assets/img/shared/blue-moon.png"/>
 
 </widget-text>
 
@@ -589,7 +589,7 @@ Notes:
 </widget-column>
 <widget-column>
 
-<a href="https://cryptorado.org" target="_blank"><img style="height: 450px" src="/assets/img/shared/QR/cryptorado-org-website.png"/></a>
+<a href="https://cryptorado.org" target="_blank"><widget-img style="height: 450px" src="/assets/img/shared/QR/cryptorado-org-website.png"/></a>
 
 </widget-column>
 </widget-columns>
