@@ -17,7 +17,7 @@ event-url: https://www.meetup.com/cryptorado-community/events/287788617/
 
 ## Crypto...
 
-<img style="height: 450px" src="/assets/img/shared/want-to-know-why-thor.gif"/>
+<widget-img style="height: 450px" src="/assets/img/shared/want-to-know-why-thor.gif"/>
 <!-- .element: class="fragment" -->
 
 ---
@@ -64,7 +64,7 @@ Notes:
 </widget-column>
 <widget-column>
 
-<a href="https://cryptorado.org" target="_blank"><img style="height: 450px" src="/assets/img/shared/QR/cryptorado-org-website.png"/></a>
+<a href="https://cryptorado.org" target="_blank"><widget-img style="height: 450px" src="/assets/img/shared/QR/cryptorado-org-website.png"/></a>
 
 </widget-column>
 </widget-columns>

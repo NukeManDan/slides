@@ -8,7 +8,8 @@
   ],
   "scripts": [
     "plugin/design-system/design-system.js",
-    "plugin/design-system/widget-speaker.js"
+    "plugin/design-system/widget-speaker.js",
+    "plugin/design-system/widget-img.js"
   ],
   "separator": "\r?\n---\r?\n",
   "verticalSeparator": "\r?\n---v\r?\n",
