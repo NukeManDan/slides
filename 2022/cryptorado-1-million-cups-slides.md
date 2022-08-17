@@ -215,7 +215,9 @@ Notes:
 
 ---
 
-## Why Should I Care?
+## Why Should I Care about "Web3"?
+
+<br>
 
 <widget-columns>
 <widget-column>
@@ -335,7 +337,7 @@ Incentivize = Attract, retain, and empower members.
 
 <widget-text center>
 
-**Blockchain Community**
+**Web3 Community**
 
 - Advocacy & Outreach
 - Micro-grants
@@ -368,7 +370,7 @@ Incentivize = Attract, retain, and empower members.
 
 ## Non-profit Cooperative<br>Trade Association
 
-_A Magnet for talent, helping fuel innovation for Blockchain in Colorado_
+_A Magnet for talent, helping fuel innovation for Web3 in Colorado_
 
 Notes:
 
