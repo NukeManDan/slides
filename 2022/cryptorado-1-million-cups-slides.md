@@ -177,9 +177,7 @@ Notes:
 
 ---
 
-
 ## What is “Cryptocurrency”?
-
 
 <widget-columns>
 <widget-column>
@@ -199,8 +197,8 @@ Notes:
 
 <br>
 
-- **Self-Sovereign** ownership 
-- **Public-key cryptography** 
+- **Self-Sovereign** ownership
+- **Public-key cryptography**
 - **P2P**: No third-party or intermediary needed\*
 - **Uncensorable**\*
 
@@ -297,7 +295,7 @@ Video: https://www.youtube-nocookie.com/embed/HiVI9_J40SU
 
 - Technology is widely misused
 - Novel rev. models & markets unclear/untested
-- ***Awareness of opportunities***
+- **_Awareness of opportunities_**
 
 </widget-text>
 
@@ -310,22 +308,23 @@ Video: https://www.youtube-nocookie.com/embed/HiVI9_J40SU
 
 - Resources and Support
 - Maintenance, adaptability, expansion
-- ***Incentivize members***
+- **_Incentivize members_**
 
 </widget-text>
 
 </widget-column>
 </widget-columns>
 
-
-Notes: 
+Notes:
 
 Incentivize = Attract, retain, and empower members.
+
 ---
 
 ## Our Solution:
 
 <a href="https://cryptorado.org" target="_blank"><img style="object-fit: cover; border-radius: 4%; height: 650px; width: 850px" src="/assets/img/shared/logo/cryptoradoBanner_1080.png"/></a>
+
 <!-- .element: class="fragment" -->
 
 ---
@@ -406,11 +405,9 @@ _Marketing to our community and beyond_
 <br>
 _Direct access to talent pool_
 
-
 <br>
 
 - **Services we offer**
-
 
 _Group User Testing Services_
 <br>
@@ -419,7 +416,6 @@ _Coworking & collaboration_
 _Freelance & startup support_
 <br>
 _Collective advocacy/lobbying_
-
 
 <widget-text center>
 
@@ -468,7 +464,6 @@ _Gig/Bounty work (Dog-fooding and as a service)_
 <br>
 _Bottom-up/ flat structure and governance_
 
-
 <widget-text center>
 
 </widget-text>
@@ -481,7 +476,6 @@ Notes:
 - Events, office space/services, Education, Networking, ...
 
 ---
-
 
 ## How do we get there?
 
@@ -509,7 +503,6 @@ _Coop Members - Industry expert and novices!_
 
 - **Our Roadmap in 2022**
 
-
 _Seed grant acquired!_
 <br>
 _Setup company org & legal structure_
@@ -531,12 +524,13 @@ _Test MVP of shared office - is an embassy needed?_
 ## How do we get there?
 
 <a href="https://cryptorado.org" target="_blank"><img style="object-fit: cover; border-radius: 4%; height: 650px; width: 600px" src="/assets/img/shared/want-you.png"/></a>
-<!-- .element: class="fragment" -->
 
+<!-- .element: class="fragment" -->
 
 ---
 
 ## Opportunities Abound for Startups!
+
 <widget-columns>
 <widget-column>
 
@@ -556,7 +550,7 @@ _Test MVP of shared office - is an embassy needed?_
 - UI/UX work is critically needed
 
 - We need great leaders to steer us towards
-ethical systems... these are _powerful_ tools!
+  ethical systems... these are _powerful_ tools!
 
 </widget-text>
 
@@ -565,7 +559,7 @@ ethical systems... these are _powerful_ tools!
 
 <br>
 
-***And our thriving, talented community***
+**_And our thriving, talented community_**
 
 Notes:
 
