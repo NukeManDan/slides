@@ -31,8 +31,8 @@
 	--r-code-font: monospace;
 	/* custom var */
 	--r-code-font-size: 0.65em;
-	--r-link-color: #1e4cf3;
-	--r-link-color-hover: #41c0d9;
+	--r-link-color: #41c0d9;
+	--r-link-color-hover: #1e4cf3;
 	--r-selection-background-color: #4c5c96;
 	--r-selection-color: #fff;
 	--r-padding: 24px;
