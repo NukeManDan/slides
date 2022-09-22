@@ -21,16 +21,20 @@ event-url: https://www.meetup.com/cryptorado-community/events/288436888/
 
 ## ... but first
 
+<widget-text center>
+
 1. Merge already covered 😉
 1. Layer 2 protocols & rollups now and to come
 1. Why not multi-chain & bridges?
 
 Notes:
 
-Today there are many L2 protocols in production. Most use _settlment_ of ETH as base layer for reference.
+<widget-text center>
+
+Today there are many L2 protocols in production. Most use _settlement_ of ETH as base layer for reference.
 Types:
 
-1. Optamistic
+1. Optimistic
 1. ZK
 
 ---
@@ -51,6 +55,8 @@ _AKA [Ethereum sharding](https://ethereum.org/en/upgrades/sharding/)_
 
 ## Sharding
 
+<widget-text center>
+
 Sharding is the process of **splitting a database horizontally** to spread the load.
 <br><br>
 The work of producing, validating, and storing blocks is split up across the network.
@@ -65,6 +71,8 @@ Notes:
 
 ## Sharding
 
+<widget-text center>
+
 Validators in PoS are _assigned at random_ to a shard committee
 
 <br>
@@ -75,9 +83,11 @@ Validators in PoS are _assigned at random_ to a shard committee
 
 ## Sharding
 
-1. When a validator verifies a block, they publish a signature attesting to it.
-1. Everyone else, instead of verifying 100 entire blocks, now only verifies 10000 signatures.
-1. Each block is broadcasted on a different **sub-network**, not everyone.
+<widget-text center>
+
+1. When a validator verifies a block,<br>they publish a signature attesting to it.
+1. Everyone else, instead of verifying 100 entire blocks,<br>now only verifies 10000 signatures.
+1. Each block is broadcasted on a different **sub-network**,<br>not everyone.
 
 Notes:
 
@@ -89,7 +99,7 @@ On Ethereum, this will synergistically with layer 2 rollups by splitting up the 
 
 ## Sharding on [Polkadot](https://polkadot.network)
 
-In operation today, using related methodology Ethereum will use, a shard here is a parachain:
+In operation today, using related methodology Ethereum will use,<br>a shard in this paradigm is a **parachain**:
 
 <br>
 
@@ -109,20 +119,14 @@ _Vitalik explains: https://vitalik.ca/general/2021/04/07/sharding.html_
 
 ## The Verge
 
+<widget-text center>
+
 1. “Verkle trees”
 2. “Stateless clients”
 
-These technical upgrades will allow users to become network validators without having to store extensive amounts of data on their machines.
-
----
-
-## The Verge
-
-_Vitalik explains: https://vitalik.ca/general/2021/06/18/verkle.html_
-
 <br>
 
-_EthHub explains: https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/stateless-clients/_
+These technical upgrades will allow users to become network validators<br>without having to store extensive amounts of data on their machines.
 
 ---
 
@@ -159,9 +163,41 @@ In a Verkle tree's polynomial proofs you do not need to provide sister nodes; in
 
 ---
 
+## Stateless Clients
+
+<widget-text center>
+
+> Statelessness allows the creation of light nodes.
+> A light node contains only the chain of headers without the execution of any transactions or associated states.
+
+Mainly useful: of lower computer resources needed to run a node, except bandwidth.
+
+---
+
+## Stateless Clients
+
+<widget-text center>
+
+- Minimal syncing overhead vs. full node<br>(Deterministic finality in PoS, even better!)
+- Trustless RPC endpoint<br>(Send transactions, query and validate state)
+- Embedded nodes in dApps
+- Mobile nodes & dApps
+
+---
+
+## The Verge & Stateless Clients
+
+Vitalik explains verkle tries: https://vitalik.ca/general/2021/06/18/verkle.html
+
+<br>
+
+EthHub explains stateless clients: https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/stateless-clients/
+
+---
+
 ## The Purge
 
-will cut down the amount of space required to store ETH on a hard drive, trying to simplify the Ethereum protocol and not requiring nodes to store history.
+Cut down the amount of space required to store ETH on a hard drive, trying to simplify the Ethereum protocol and not requiring nodes to store history.
 
 ---
 
@@ -169,7 +205,15 @@ will cut down the amount of space required to store ETH on a hard drive, trying 
 
 … “all of the other fun stuff.”
 
-https://vitalik.ca/general/2021/12/06/endgame.html
+Vitalik on the _Endgame_: https://vitalik.ca/general/2021/12/06/endgame.html
+
+---
+
+# More to come!
+
+Questions? Thoughts?
+
+Something to add I missed?
 
 ---
 
