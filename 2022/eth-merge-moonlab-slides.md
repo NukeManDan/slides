@@ -176,6 +176,16 @@ Mainly useful: of lower computer resources needed to run a node, except bandwidt
 
 ## Stateless Clients
 
+Enabled by "header chain" with **verifiable proofs** of state.
+
+<br>
+
+<widget-img style="object-fit: cover; border-radius: 2%; width: 750px" src="/assets/img/eth/block_header.png"/>
+
+---
+
+## Stateless Clients
+
 <widget-text center>
 
 - Minimal syncing overhead vs. full node<br>(Deterministic finality in PoS, even better!)
@@ -197,7 +207,7 @@ EthHub explains stateless clients: https://docs.ethhub.io/ethereum-roadmap/ether
 
 ## The Purge
 
-Cut down the amount of space required to store ETH on a hard drive, trying to simplify the Ethereum protocol and not requiring nodes to store history.
+Cut down the amount of space required to store ETH on a hard drive,<br>trying to simplify the Ethereum protocol and not requiring nodes to store history.
 
 ---
 
